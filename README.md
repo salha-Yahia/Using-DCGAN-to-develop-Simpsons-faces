@@ -9,11 +9,11 @@ For the analysis of chest x-ray images, all chest radiographs were initially scr
 In order to account for any grading errors, the evaluation set was also checked by a third expert.
 
 ## References: http://www.cell.com/cell/fulltext/S0092-8674(18)30154-5
-## Download Link: https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
+
 
 ### We have developed a Convolutional Neural Network to classify the X-Ray images into Normal nad Pneumonial. 
 ### Our model was around 90% accurate with the test images.
 ### More accuracy may have been acheived but due to lmited resources the model was trained only for 30 epochs
 ### Deep Learning will bring a great revolution in the field of healthcare in the coming years.
-### My kaggle notebook link: https://www.kaggle.com/akshat0007/pneumonia-detection-using-only-cnn
+
 
